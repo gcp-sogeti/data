@@ -29,3 +29,9 @@ Cloud Bigtable is Google’s NoSQL Big Data database service. It is the same dat
 - Provides high throughput with low latency
 - Write data once and automatically replicate where needed with eventual consistency
 - It helps in executing machine learning algorithms on the data
+
+----
+
+### Choose the right database
+
+![Choose data](img/choose-data.png)

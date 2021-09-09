@@ -22,7 +22,7 @@ It provides some interesting features such as object versioning or fine-grain pe
 
 ### Cloud storage
 
-![Cloud storage classes](img/cloud-storage-classes.png)
+<img src="img/cloud-storage-classes.png" width="70%" />
 
 ----
 

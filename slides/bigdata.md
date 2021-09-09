@@ -42,7 +42,9 @@ With less time and money spent on administration, you can focus on your jobs and
 
 ### Dataflow
 
+A set of SDK that define the programming model that you use to build your streaming and batch processing pipeline
 
+It is a fully managed service that will run and optimize your pipeline
 
 ----
 

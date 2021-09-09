@@ -34,4 +34,4 @@ Cloud Bigtable is Google’s NoSQL Big Data database service. It is the same dat
 
 ### Choose the right database
 
-![Choose data](img/choose-data.png)
+<img src="img/choose-data.png" width="80%" />

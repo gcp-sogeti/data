@@ -4,7 +4,7 @@
 
 ### Overview of architecture
 
-![Overview](img/big-data-pipaline.png)
+![Overview](img/big-data-pipeline.png)
 
 ----
 
@@ -16,7 +16,7 @@
 
 ### Kappa architecture
 
-![Kappa](img/.png)
+![Kappa](img/kappa.png)
 
 ----
 
